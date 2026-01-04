@@ -1,0 +1,74 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG" x-tvg-url="https://iptvx.one/EPG"
+
+#EXTINF:-1 "tvg-id="Всё ТВ" tvg-logo="https://images.iptv.rt.ru/images/ch4dk93mhk079s3jpo50.png",Всё ТВ Трейлеры
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 tvg-id="pervy",Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R03_1TV_ARKH/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_ARKH_FILIAL/variant.m3u8
+#EXTINF:-1 tvg-id="ntv",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R03_NTV_ARKH/variant.m3u8
+#EXTINF:-1 tvg-id="match-tv",Матч ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_ARKH/variant.m3u8
+#EXTINF:-1 tvg-id="rentv",РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_ARKH/variant.m3u8
+#EXTINF:-1 tvg-id="sts",СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_STS_ARKH/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-ru",ТВ-3
+https://bl.rutube.ru/livestream/ff99b4d6cc81635fdcd094af044d8d96/index.m3u8?s=uYJwwSPFUX7wSv8JX1IvsA&e=2065962185&scheme=https
+#EXTINF:-1 tvg-id="piatnica",Пятница
+https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=F1-ND7wFIeoIlsF2AQZmKw&e=2065962184&scheme=https
+#EXTINF:-1 tvg-id="tnt",ТНТ
+https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=xRVvlKMBeCaKHoX_leLLzw&e=2065962183&scheme=https
+#EXTINF:-1 tvg-id="tnt4",ТНТ4
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=kbq_XjQgY8wS6FLLCpXCFg&e=2065962187&scheme=https
+#EXTINF:-1 tvg-id="region29",Регион 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+#EXTINF:-1 tvg-id="stv24",СТВ 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
+#EXTINF:-1 tvg-id="che",Че!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="yu",Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:-1 tvg-id="rossia-24",Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ARKH/variant.m3u8
+
+#EXTINF:-1 tvg-id="clarity4k-netflix",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:-1 tvg-id="vip-comedy-cee",Viasat Kino Comedy
+http://ukr.ukrainske.tv/493/video.m3u8
+#EXTINF:-1,1Filmax
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1,2Filmax
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1,Кошмар HD
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 tvg-id="312-kino",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1,Akudji
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:-1 tvg-logo="https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphacinema.png", alpha Cinema
+http://46.224.1.162:80/Shamilbro/ShamsTV/3424.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/d2qzrUO",alpha Moretime
+http://46.224.1.162:80/Shamilbro/ShamsTV/3425.m3u8
+#EXTINF:-1 tvg-logo="https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphafunny.png",alpha Funny
+http://46.224.1.162:80/Shamilbro/ShamsTV/3426.m3u8
+
+#EXTINF:-1 tvg-id="sky-sports-apl",Sky Sports Premier League
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=EZaxq2zRN3Ng0n-15IdWAQ&e=2065962199&scheme=https
+#EXTINF:-1 tvg-id="sky-sports-maine",Sky Sports Main Event
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=i12-83CcNUYLb7XAOQKgRg&e=2065962208&scheme=https
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/710ZHvpAKUL._AC_UL800_QL65_.png", FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
