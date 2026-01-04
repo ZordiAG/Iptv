@@ -66,10 +66,12 @@ http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="vip-comedy-cee",Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/video.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет",1Filmax
+#EXTINF:-1 group-title="Архангельск + интернет"
+tvg-logo="https://smotret.tv/images/1filmmax-fantastika.webp",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет",2Filmax
+#EXTINF:-1 group-title="Архангельск + интернет"
+tvg-logo="https://smotret.tv/images/1filmmax-comedy.webp,2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет",Кошмар HD
