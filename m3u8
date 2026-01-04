@@ -75,8 +75,14 @@ http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://smotret-tv.live/images/2filmax-komediya.png",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет",Кошмар HD
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://yootv.host/images/logo-channel/fantom-tv.png",Fantoms
+http://46.224.1.162:80/Shamilbro/ShamsTV/3444.m3u8
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://ritsatv.ru/files/poster/original/900801.jpg",Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://i.pinimg.com/originals/6c/96/77/6c967760bc9fd610a748c6760c69c1ae.jpg",Millenniym
+http://46.224.1.162:80/Shamilbro/ShamsTV/3442.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="312-kino",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
@@ -84,14 +90,26 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Архангельск + интернет",Akudji
 http://195.9.195.3:8080/hls/5346.m3u8
 
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://smotret.tv/images/selecaotv.webp",Selecao TV
+http://46.224.1.162:80/Shamilbro/ShamsTV/3438.m3u8
+
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphacinema.png",alpha Cinema
 http://46.224.1.162:80/Shamilbro/ShamsTV/3424.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://imgur.com/d2qzrUO",alpha Moretime
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/oie_trzzf13tsopw-5062971274.png",alpha Moretime
 http://46.224.1.162:80/Shamilbro/ShamsTV/3425.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphafunny.png",alpha Funny
 http://46.224.1.162:80/Shamilbro/ShamsTV/3426.m3u8
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://img.freepik.com/premium-vector/animal-pets-dog-cat-flat-mascot-modern-logo-design-vector_15473-17484.jpg",Смешные животные
+https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://img.freepik.com/premium-vector/cartoon-dog-mascot-logo_1241144-3944.jpg",Смешные собаки
+https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://planetnew.net/uploads/posts/2017-02/thumbs/1487859059200160809.jpeg",Futurama
+http://46.224.1.162:80/Shamilbro/ShamsTV/3441.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="sky-sports-apl",Sky Sports Premier League
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=EZaxq2zRN3Ng0n-15IdWAQ&e=2065962199&scheme=https
