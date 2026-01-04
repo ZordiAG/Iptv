@@ -60,9 +60,6 @@ https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ARKH/variant.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-cinema",BCU Cinema HDR
-http://46.224.1.162:80/Shamilbro/ShamsTV/3420.m3u8
-
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-netflix",Clarity4K Netflix
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 
@@ -105,7 +102,7 @@ http://46.224.1.162:80/Shamilbro/ShamsTV/3426.m3u8
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://img.freepik.com/premium-vector/animal-pets-dog-cat-flat-mascot-modern-logo-design-vector_15473-17484.jpg",Смешные животные
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://img.freepik.com/premium-vector/cartoon-dog-mascot-logo_1241144-3944.jpg",Смешные собаки
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://img.freepik.com/premium-vector/cartoon-dog-mascot-logo_1241144-3944.jpg",Смешные животные 2
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://planetnew.net/uploads/posts/2017-02/thumbs/1487859059200160809.jpeg",Futurama
