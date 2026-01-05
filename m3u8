@@ -77,11 +77,29 @@ https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="chestny-detektiv",Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-premiere",BCU Premiere HD
+http://tv.lamro.workers.dev/?ID=5175
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kinozal-prem-1",BCU Premiere 1 HD
+http://tv.lamro.workers.dev/?ID=5162
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kinozal-prem-2",BCU Premiere 2 HD
+http://tv.lamro.workers.dev/?ID=5163
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kinozal-prem-3",BCU Premiere 3 HD
+http://tv.lamro.workers.dev/?ID=5165
+
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-netflix",Clarity4K Netflix
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="vip-comedy-cee",Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/video.m3u8
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kids",BCU Kids HD
+http://tv.lamro.workers.dev/?ID=5187
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kids-plus",BCU Kids+ HD
+http://tv.lamro.workers.dev/?ID=5188
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://smotret-tv.live/images/1filmax-fantastika.png",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
@@ -124,6 +142,12 @@ https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://planetnew.net/uploads/posts/2017-02/thumbs/1487859059200160809.jpeg",Futurama
 http://46.224.1.162:80/Shamilbro/ShamsTV/3441.m3u8
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="match-premier",Матч! Премьер HD
+http://tv.lamro.workers.dev/?ID=3737
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="okko-sport",Окко Спорт HD
+http://tv.lamro.workers.dev/?ID=5238
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="sky-sports-apl",Sky Sports Premier League
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=EZaxq2zRN3Ng0n-15IdWAQ&e=2065962199&scheme=https
