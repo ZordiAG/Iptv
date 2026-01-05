@@ -101,6 +101,9 @@ http://tv.lamro.workers.dev/?ID=5187
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kids-plus",BCU Kids+ HD
 http://tv.lamro.workers.dev/?ID=5188
 
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="312-kino",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://smotret-tv.live/images/1filmax-fantastika.png",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 
@@ -115,9 +118,6 @@ http://195.9.195.3:8080/hls/204709.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://i.pinimg.com/originals/6c/96/77/6c967760bc9fd610a748c6760c69c1ae.jpg",Millenniym
 http://46.224.1.162:80/Shamilbro/ShamsTV/3442.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="312-kino",312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет"  tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-akudji-tv_0.jpg",Akudji
 http://195.9.195.3:8080/hls/5346.m3u8
