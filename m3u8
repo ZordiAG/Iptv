@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" x-tvg-url="https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="Всё ТВ" tvg-logo="https://images.iptv.rt.ru/images/ch4dk93mhk079s3jpo50.png",Всё ТВ Трейлеры
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://images.iptv.rt.ru/images/cq5q1vrir4sqiatbghsg.png",Всё ТВ HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="pervy",Первый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R03_1TV_ARKH/variant.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="rossia1",Россия 1
@@ -52,13 +52,30 @@ https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="yu",Ю
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
-
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="rossia-24",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ARKH/variant.m3u8
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-lubov",Смотрим 100% Любовь
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-muzhskoe",Смотрим 100% Мужское
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-klassika",Смотрим 100% Классика
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-detskoe",Смотрим 100% Детское
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-prazdnik",Смотрим 100% Праздник
+https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-fakty",Смотрим 100% Факты
+https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="chestny-detektiv",Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-netflix",Clarity4K Netflix
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
