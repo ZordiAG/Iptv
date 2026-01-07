@@ -89,23 +89,17 @@ http://tv.lamro.workers.dev/?ID=5163
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kinozal-prem-3",BCU Premiere 3 HD
 http://tv.lamro.workers.dev/?ID=5165
 
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-action",BCU Action HD
+http://tv.lamro.workers.dev/?ID=5168
+
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kids",BCU Kids HD
 http://tv.lamro.workers.dev/?ID=5187
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kids-plus",BCU Kids+ HD
 http://tv.lamro.workers.dev/?ID=5188
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="312-kino",312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://smotret-tv.live/images/1filmax-fantastika.png",1Filmax
-http://195.9.195.3:8080/hls/204708.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://smotret-tv.live/images/2filmax-komediya.png",2Filmax
-http://195.9.195.3:8080/hls/204717.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://yootv.host/images/logo-channel/fantom-tv.png",Fantoms
-http://46.224.1.162:80/Shamilbro/ShamsTV/3444.m3u8
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-filmystic",BCU FilMystic HD
+http://tv.lamro.workers.dev/?ID=5172
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://ritsatv.ru/files/poster/original/900801.jpg",Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
