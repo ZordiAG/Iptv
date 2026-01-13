@@ -156,6 +156,15 @@ http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-filmystic", BCU FilMystic HD
 http://tv.lamro.workers.dev/?ID=5172
 
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="match-tv", Матч ТВ HD
+http://tv.lamro.workers.dev/?ID=4955
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Архангельск + интернет" tvg-logo="https://epg.iptvx.one/picons/match-premiere.png", Матч! Премьер HD
+http://tv.lamro.workers.dev/?ID=3737
+
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="okko-sport", Окко Спорт HD
+http://tv.lamro.workers.dev/?ID=5238
+
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://ritsatv.ru/files/poster/original/900801.jpg", Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
 
@@ -176,7 +185,7 @@ http://195.9.195.3:8080/hls/214749.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/218193.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphacinema.png", alpha Cinema
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://avatars.mds.yandex.net/i?id=99f3502de1232d0eadfb83f94f9d94a9e28a6aff-4884685-images-thumbs&n=13", alpha Cinema
 http://46.224.1.162:80/Shamilbro/ShamsTV/3424.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/oie_trzzf13tsopw-5062971274.png", alpha Moretime
@@ -185,21 +194,6 @@ http://46.224.1.162:80/Shamilbro/ShamsTV/3425.m3u8
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://static.goodgame.ru/files/avatars/av_1348257_U3En.jpg",Видеокасета VHS
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/176975.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="match-tv", Матч ТВ HD
-http://tv.lamro.workers.dev/?ID=4955
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Архангельск + интернет", Матч! Премьер HD
-http://tv.lamro.workers.dev/?ID=3737
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="okko-sport", Окко Спорт HD
-http://tv.lamro.workers.dev/?ID=5238
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="sky-sports-apl", Sky Sports Premier League
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=EZaxq2zRN3Ng0n-15IdWAQ&e=2065962199&scheme=https
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="sky-sports-maine", Sky Sports Main Event
-https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=i12-83CcNUYLb7XAOQKgRg&e=2065962208&scheme=https
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg",Mega Radio
 #EXTVLCOPT:http-user-agent=SmartTV
