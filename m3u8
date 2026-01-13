@@ -111,21 +111,6 @@ https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="chest ny-detektiv", Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-premiere", BCU Premiere HD
-http://tv.lamro.workers.dev/?ID=5175
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kinozal-prem-1", BCU Premiere 1 HD
-http://tv.lamro.workers.dev/?ID=5162
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kinozal-prem-2", BCU Premiere 2 HD
-http://tv.lamro.workers.dev/?ID=5163
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kinozal-prem-3", BCU Premiere 3 HD
-http://tv.lamro.workers.dev/?ID=5165
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-action", BCU Action HD
-http://tv.lamro.workers.dev/?ID=5168
-
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-netflix", Clarity4K Netflix
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 
@@ -173,9 +158,6 @@ http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kids", BCU Kids HD
 http://tv.lamro.workers.dev/?ID=5187
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kids-plus", BCU Kids+ HD
-http://tv.lamro.workers.dev/?ID=5188
 
 #EXTINF:-1 tvg-id="CPS Cartoon HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/c8/b3616f3b11b8ee4f8564b7190b9fa2c8.png", CPS Cartoon
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
