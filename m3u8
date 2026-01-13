@@ -141,12 +141,6 @@ http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
 #EXTINF:-1 tvg-id="CPS Cartoon HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/c8/b3616f3b11b8ee4f8564b7190b9fa2c8.png", CPS Cartoon
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="match-tv", Матч ТВ HD
-http://tv.lamro.workers.dev/?ID=4955
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Архангельск + интернет" tvg-logo="https://epg.iptvx.one/picons/match-premiere.png", Матч! Премьер HD
-http://tv.lamro.workers.dev/?ID=3737
-
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="okko-sport", Окко Спорт HD
 http://tv.lamro.workers.dev/?ID=5238
 
