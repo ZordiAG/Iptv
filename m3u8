@@ -111,24 +111,6 @@ https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="chest ny-detektiv", Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-netflix", Clarity4K Netflix
-http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-boevik", Clarity4k Боевик
-http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-fantastik", Clarity4K Фантастика
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-fentezy", Clarity4k Фэнтези
-http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-semejny", Clarity4k Семейный
-http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="Clarity4k Драмы" tvg-logo="http://i125.fastpic.org/big/2025/0412/d4/e228642deecf212ed08659d6fb0071d4.png", Clarity4k Драмы
-http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
-
 #EXTINF:-1 tvg-id="MYTV" group-title="Архангельск + интернет" tvg-logo="http://i123.fastpic.org/big/2024/0314/87/2ca281c5aedf2f25a53dd9cdf5aa8f87.png", MyTV
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
 
