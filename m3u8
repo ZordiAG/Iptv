@@ -141,11 +141,44 @@ http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-semejny", Clarity4k Семейный
 http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
 
+#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="Clarity4k Драмы" tvg-logo="http://i125.fastpic.org/big/2025/0412/d4/e228642deecf212ed08659d6fb0071d4.png", Clarity4k Драмы
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+
+#EXTINF:-1 tvg-id="MYTV" group-title="Архангельск + интернет" tvg-logo="http://i123.fastpic.org/big/2024/0314/87/2ca281c5aedf2f25a53dd9cdf5aa8f87.png", MyTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+
+#EXTINF:-1 tvg-id="MYTV 2" group-title="Архангельск + интернет" tvg-logo="http://i123.fastpic.org/big/2024/0314/54/04aa3ecee9d807de760e6173bc742754.png", MyTV 2
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+
+#EXTINF:-1 tvg-id="MYTV 3" group-title="Архангельск + интернет" tvg-logo="http://i123.fastpic.org/big/2024/0314/27/fd2d53e5b8ba53744fc783ac7526c327.png", MyTV 3
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+
+#EXTINF:-1 tvg-id="CPS Fresh HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/9f/cf1f5aab2f248154e30ab00b8316679f.png", CPS Fresh
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+
+#EXTINF:-1 tvg-id="CPS Comedy HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/61/03f5a191b71465e9b5514445defc0c61.png", CPS Comedy
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+
+#EXTINF:-1 tvg-id="CPS Action HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/59/1304ae5cb58fcdcab17affbe315ec359.png", CPS Action
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+
+#EXTINF:-1 tvg-id="CPS Mix HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/3f/b61cfe4aeb72fcc99f871fe935528b3f.png", CPS Mix
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+
+#EXTINF:-1 tvg-id="CPS Investigation" group-title="Архангельск + интернет" tvg-logo="http://i122.fastpic.org/big/2023/0905/fc/9588b9ae85a02b3ab3e0068429be75fc.png", CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+
+#EXTINF:-1 tvg-id="CPS Drama HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/53/306163d86da1362c4abf9879123fb053.png", CPS Drama
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kids", BCU Kids HD
 http://tv.lamro.workers.dev/?ID=5187
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="bcu-kids-plus", BCU Kids+ HD
 http://tv.lamro.workers.dev/?ID=5188
+
+#EXTINF:-1 tvg-id="CPS Cartoon HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/c8/b3616f3b11b8ee4f8564b7190b9fa2c8.png", CPS Cartoon
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="clarity4k-waltdisney", Clarity4k Walt Disney
 http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
