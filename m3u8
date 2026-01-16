@@ -114,9 +114,6 @@ https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c9
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-detskoe", Смотрим 100% Детское
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-prazdnik", Смотрим 100% Праздник
-https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
-
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-fakty", Смотрим 100% Факты
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 
@@ -132,35 +129,17 @@ http://hls127.freeott.top:8080/MyTV2/mono.m3u8
 #EXTINF:-1 tvg-id="MYTV 3" group-title="Архангельск + интернет" tvg-logo="http://i123.fastpic.org/big/2024/0314/27/fd2d53e5b8ba53744fc783ac7526c327.png", MyTV 3
 http://hls127.freeott.top:8080/MyTV3/mono.m3u8
 
-#EXTINF:-1 tvg-id="CPS Fresh HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/9f/cf1f5aab2f248154e30ab00b8316679f.png", CPS Fresh
-http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-
 #EXTINF:-1 tvg-id="CPS Comedy HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/61/03f5a191b71465e9b5514445defc0c61.png", CPS Comedy
 http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
 
 #EXTINF:-1 tvg-id="CPS Action HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/59/1304ae5cb58fcdcab17affbe315ec359.png", CPS Action
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 
-#EXTINF:-1 tvg-id="CPS Mix HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/3f/b61cfe4aeb72fcc99f871fe935528b3f.png", CPS Mix
-http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
-
-#EXTINF:-1 tvg-id="CPS Investigation" group-title="Архангельск + интернет" tvg-logo="http://i122.fastpic.org/big/2023/0905/fc/9588b9ae85a02b3ab3e0068429be75fc.png", CPS Investigation
-http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-
-#EXTINF:-1 tvg-id="CPS Drama HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/53/306163d86da1362c4abf9879123fb053.png", CPS Drama
-http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
-
 #EXTINF:-1 tvg-id="CPS Cartoon HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/c8/b3616f3b11b8ee4f8564b7190b9fa2c8.png", CPS Cartoon
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="okko-sport", Окко Спорт HD
-http://tv.lamro.workers.dev/?ID=5238
-
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://ritsatv.ru/files/poster/original/900801.jpg", Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://i.pinimg.com/originals/6c/96/77/6c967760bc9fd610a748c6760c69c1ae.jpg", Millenniym
-http://46.224.1.162:80/Shamilbro/ShamsTV/3442.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет"  tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-akudji-tv_0.jpg", Akudji
 http://195.9.195.3:8080/hls/5346.m3u8
@@ -172,22 +151,9 @@ http://46.224.1.162:80/Shamilbro/ShamsTV/3438.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/214749.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_hum.png" ,КиноФраншизы 24/7
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/218193.m3u8
-
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://avatars.mds.yandex.net/i?id=99f3502de1232d0eadfb83f94f9d94a9e28a6aff-4884685-images-thumbs&n=13", alpha Cinema
 http://46.224.1.162:80/Shamilbro/ShamsTV/3424.m3u8
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/oie_trzzf13tsopw-5062971274.png", alpha Moretime
 http://46.224.1.162:80/Shamilbro/ShamsTV/3425.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://static.goodgame.ru/files/avatars/av_1348257_U3En.jpg",Видеокасета VHS
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/176975.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg",Mega Radio
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/175789.m3u8
-
 
