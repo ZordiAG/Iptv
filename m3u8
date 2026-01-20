@@ -78,10 +78,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=CoI9uq8BIW1HeIobzwM3HQ&e=2068398530&scheme=https
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="ru-tv", RU TV
-#EXTVLCOPT:http-user-agent=SmartTV
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=KtZn_X6gWz_iRF5XCV3GBw&e=2068397742&scheme=https
-
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="2na2",2x2
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -137,23 +133,3 @@ http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 
 #EXTINF:-1 tvg-id="CPS Cartoon HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/c8/b3616f3b11b8ee4f8564b7190b9fa2c8.png", CPS Cartoon
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://ritsatv.ru/files/poster/original/900801.jpg", Кошмар HD
-http://195.9.195.3:8080/hls/204709.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет"  tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-akudji-tv_0.jpg", Akudji
-http://195.9.195.3:8080/hls/5346.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://smotret.tv/images/selecaotv.webp", Selecao TV
-http://46.224.1.162:80/Shamilbro/ShamsTV/3438.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,Moviee Toper
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/214749.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://avatars.mds.yandex.net/i?id=99f3502de1232d0eadfb83f94f9d94a9e28a6aff-4884685-images-thumbs&n=13", alpha Cinema
-http://46.224.1.162:80/Shamilbro/ShamsTV/3424.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/oie_trzzf13tsopw-5062971274.png", alpha Moretime
-http://46.224.1.162:80/Shamilbro/ShamsTV/3425.m3u8
-
