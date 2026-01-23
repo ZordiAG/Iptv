@@ -115,21 +115,3 @@ https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5
 
 #EXTINF:-1 group-title="Архангельск + интернет" tvg-id="chest ny-detektiv", Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MYTV" group-title="Архангельск + интернет" tvg-logo="http://i123.fastpic.org/big/2024/0314/87/2ca281c5aedf2f25a53dd9cdf5aa8f87.png", MyTV
-http://hls127.freeott.top:8080/MyTV/mono.m3u8
-
-#EXTINF:-1 tvg-id="MYTV 2" group-title="Архангельск + интернет" tvg-logo="http://i123.fastpic.org/big/2024/0314/54/04aa3ecee9d807de760e6173bc742754.png", MyTV 2
-http://hls127.freeott.top:8080/MyTV2/mono.m3u8
-
-#EXTINF:-1 tvg-id="MYTV 3" group-title="Архангельск + интернет" tvg-logo="http://i123.fastpic.org/big/2024/0314/27/fd2d53e5b8ba53744fc783ac7526c327.png", MyTV 3
-http://hls127.freeott.top:8080/MyTV3/mono.m3u8
-
-#EXTINF:-1 tvg-id="CPS Comedy HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/61/03f5a191b71465e9b5514445defc0c61.png", CPS Comedy
-http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-
-#EXTINF:-1 tvg-id="CPS Action HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/59/1304ae5cb58fcdcab17affbe315ec359.png", CPS Action
-http://hls127.freeott.top:8080/CPS_Action/video.m3u8
-
-#EXTINF:-1 tvg-id="CPS Cartoon HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0623/c8/b3616f3b11b8ee4f8564b7190b9fa2c8.png", CPS Cartoon
-http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
