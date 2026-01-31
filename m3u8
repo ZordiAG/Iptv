@@ -98,20 +98,31 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ARKH/variant.m3u8
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-lubov", Смотрим 100% Любовь
-https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:-1 tvg-id="BCU Premiere HD" tvg-name="BCU Premiere" group-title="Архангельск + интернет" tvg-logo="http://i117.fastpic.org/big/2022/0515/87/5f5a31eca8ae7dd43257e4ad50228a87.png",BCU Premiere
+http://cdn.iptvcinema.ru/bcu_premiere/index.m3u8?token=Wm9kaUFDfHxOVGszTXpFeFUyRnphR0U9
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-muzhskoe", Смотрим 100% Мужское
-https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+#EXTINF:-1 tvg-id="BCU Premiere 1 HD" tvg-name="BCU Кинозал Premiere 1 HD" group-title="Архангельск + интернет" tvg-logo="http://i117.fastpic.org/big/2022/0515/e9/b0687e750cdbf80d529880d5498865e9.png",BCU Кинозал Premiere 1 HD
+http://cdn.iptvcinema.ru/premiere_1/index.m3u8?token=Wm9kaUFDfHxOVGszTXpFeFUyRnphR0U9
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-klassika", Смотрим 100% Классика
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-id="BCU Premiere 2 HD" tvg-name="BCU Кинозал Premiere 2 HD" group-title="Архангельск + интернет" tvg-logo="http://i117.fastpic.org/big/2022/0515/76/b28f9a24ab24b870e6a9d055e7971c76.png",BCU Кинозал Premiere 2 HD
+http://cdn.iptvcinema.ru/premiere_2/index.m3u8?token=Wm9kaUFDfHxOVGszTXpFeFUyRnphR0U9
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-detskoe", Смотрим 100% Детское
-https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF:-1 tvg-id="BCU Premiere 3 HD" tvg-name="BCU Кинозал Premiere 3 HD" group-title="Архангельск + интернет" tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png",BCU Кинозал Premiere 3 HD
+http://cdn.iptvcinema.ru/premiere_3/index.m3u8?token=Wm9kaUFDfHxOVGszTXpFeFUyRnphR0U9
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="smotrim-100-fakty", Смотрим 100% Факты
-https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+#EXTINF:-1 tvg-id="Fresh Premiere HD" tvg-name="Fresh Premiere HD" group-title="Архангельск + интернет" tvg-logo="http://i120.fastpic.org/big/2022/0626/ba/14b2e7fa2de01a987019f852c90c74ba.png",Fresh Premiere HD
+http://cdn.iptvcinema.ru/fresh_premiere/index.m3u8?token=Wm9kaUFDfHxOVGszTXpFeFUyRnphR0U9
 
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="chest ny-detektiv", Честный детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Premiere HD 1" tvg-name="Premiere HD 1" group-title="Архангельск + интернет" tvg-logo="http://i115.fastpic.org/big/2021/1002/74/06c37a83817a275e1598af6600973d74.png",Premiere HD 1
+http://cdn.iptvcinema.ru/premiere_1/index.m3u8?token=Wm9kaUFDfHxOVGszTXpFeFUyRnphR0U9
+
+#EXTINF:-1 tvg-id="Premiere HD 2" tvg-name="Premiere HD 2" group-title="Архангельск + интернет" tvg-logo="http://i115.fastpic.org/big/2021/1002/46/e8b08264a444c1f7d88858118d4bbd46.png",Premiere HD 2
+http://cdn.iptvcinema.ru/premiere_2/index.m3u8?token=Wm9kaUFDfHxOVGszTXpFeFUyRnphR0U9
+
+#EXTINF:-1 tvg-id="Premiere HD 3" tvg-name="Premiere HD 3" group-title="Архангельск + интернет" tvg-logo="http://i115.fastpic.org/big/2021/1002/df/0a5cb32c147e78d20cafee24b090cfdf.png",Premiere HD 3
+http://cdn.iptvcinema.ru/premiere_3/index.m3u8?token=Wm9kaUFDfHxOVGszTXpFeFUyRnphR0U9
+
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="Premiere HD 4" group-title="Архангельск + интернет" tvg-logo="http://i115.fastpic.org/big/2021/1002/14/9296fa39de552830bfb43633bbc67e14.png",Premiere HD 4
+http://cdn.iptvcinema.ru/premiere_4/index.m3u8?token=Wm9kaUFDfHxOVGszTXpFeFUyRnphR0U9
+
+
