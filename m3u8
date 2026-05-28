@@ -83,7 +83,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Архангельск+Rutube" channel-id="FON Music" tvg-id="FON Music" tvg-name="FON Music" tvg-logo="http://only4.tv/ch/7536.png" catchup-days="0", FON Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=CoI9uq8BIW1HeIobzwM3HQ&e=2068398530&scheme=https
-#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="15+ Music" tvg-id="15+ Music" tvg-name="15+ Music" tvg-logo="https://clck.su/CaOBF" catchup-days="0",15+ Music HD
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="15+ Music" tvg-id="15+ Music" tvg-name="15+ Music" tvg-logo="https://static.goodgame.ru/files/avatars/av_1641869_2z1T.jpg" catchup-days="0",15+ Music HD
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Новое Радио" tvg-id="Новое Радио" tvg-name="Новое Радио" tvg-logo="http://i124.fastpic.org/big/2025/0306/92/1143c07e2fc8bc3312c2b294ac21b392.png" catchup-days="0",Новое Радио ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
