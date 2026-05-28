@@ -72,7 +72,7 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=v7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Архангельск+Rutube" channel-id="NSC+" tvg-id="NSC+" tvg-name="NSC+" tvg-logo="https://clck.su/GVaTl" catchup-days="0",NSC+ HD
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="15+ Animation" tvg-id="15+ Animation" tvg-name="15+ Animation" tvg-logo="https://iimg.su/i/3VQ11G" catchup-days="0",15+ Animation HD
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="15+ Animation" tvg-id="15+ Animation" tvg-name="15+ Animation" tvg-logo="https://psv4.userapi.com/s/v1/d2/ZZL570EG41hIF-X_rljLtjAsgklbB0wJrKk-3fGDs-15We6bYak3PouIwZT5GCTaxQWCEGEWIj6cEizX1xn58HNKRgH9E63BcqsNO0uQ7KwFtg-4D-ehLh2-lxBVTiRStML9A44jwITj/15_Animation.png" catchup-days="0",15+ Animation HD
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Муз ТВ" tvg-id="Муз ТВ" tvg-name="Муз ТВ" tvg-logo="http://only4.tv/ch/10883.png" catchup-days="0", Муз-ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
