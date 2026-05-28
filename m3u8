@@ -70,7 +70,7 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=v7
 #EXTINF:-1 group-title="Архангельск+Rutube" channel-id="ТНТ4" tvg-id="ТНТ4" tvg-name="ТНТ4" tvg-logo="http://only4.tv/ch/1820.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", ТНТ4
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="NSC+" tvg-id="NSC+" tvg-name="NSC+" tvg-logo="https://s10.iimage.su/s/28/th_gA551eVxYydhtzuJTlVKLGsb3M4mjLwVrvDMCwCD2.png" catchup-days="0",NSC+ HD
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="NSC+" tvg-id="NSC+" tvg-name="NSC+" tvg-logo="https://iili.io/C2oyW9R.png" catchup-days="0",NSC+ HD
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 group-title="Архангельск+Rutube" channel-id="15+ Animation" tvg-id="15+ Animation" tvg-name="15+ Animation" tvg-logo="https://s10.iimage.su/s/28/th_g3VQ11GxqMgnImNkX5izgNrX9NLwPcKyz1VqZ2zrk.png" catchup-days="0",15+ Animation HD
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
