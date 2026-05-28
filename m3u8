@@ -1,99 +1,132 @@
-#EXTM3U
-x-tvg-url="http://gabbarit.epg.one/epg_1.xml.gz,https://iptvx.one/EPG"
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет", Всё ТВ HD
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz,https://iptvx.one/EPG,https://tapitv.com/ttv.xmltv.7.xml.gz" refresh="3600"
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Всё ТВ" tvg-id="Всё ТВ" tvg-name="Всё ТВ" tvg-logo="http://i124.fastpic.org/big/2024/1015/4b/3d8002c43bd83ec1db4d817639aaab4b.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Всё ТВ HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="pervy", Первый канал
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Первый канал HD" tvg-id="Первый канал HD" tvg-name="Первый канал HD" tvg-logo="http://only4.tv/ch/20105.png" catchup-days="0", Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=IJEOPSKjgft0O7p69H3ebA&e=2070450926&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Первый канал" tvg-id="Первый канал" tvg-name="Первый канал" tvg-logo="http://only4.tv/ch/1101.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Первый канал
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R03_1TV_ARKH/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="rossia1", Россия 1
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Россия 1" tvg-id="Россия 1" tvg-name="Россия 1" tvg-logo="http://only4.tv/ch/1001.png" catchup="append" catchup-days="0", Россия 1 HD
+https://edge01d.mediavitrina.ru/hls-livef5/russia1/index.m3u8?token=v2.aYFVFh1XwACP94T2i_w3ZKuoacqWtAYwRpx5Q4z7Fuc.POMdl-dGauC1jjB0b68F6pSL_b-3h5SRwJx2iChLvc4.1776013810.9d86a889f2ec11a24134b1df8c96687c
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Россия 1" tvg-id="Россия 1" tvg-name="Россия 1" tvg-logo="http://only4.tv/ch/1001.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Россия 1
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_ARKH/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="ntv", НТВ
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="НТВ HD" tvg-id="НТВ HD" tvg-name="НТВ HD" tvg-logo="http://only4.tv/ch/2201.png" catchup-days="0", НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=hpW7zeCOtr55dzOgo97zGg&e=2070450927&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="НТВ" tvg-id="НТВ" tvg-name="НТВ" tvg-logo="http://only4.tv/ch/1315.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", НТВ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R03_NTV_ARKH/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="match-tv", Матч ТВ
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Матч! ТВ" tvg-id="Матч! ТВ" tvg-name="Матч! ТВ" tvg-logo="http://only4.tv/ch/2224.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Матч! ТВ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_ARKH/variant.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="match-tv", Матч ТВ HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=77V_arXngUzGIb4sJUDLUw&e=2068398757&scheme=https
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="region29", Регион 29
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Матч! ТВ" tvg-id="Матч! ТВ" tvg-name="Матч! ТВ" tvg-logo="http://only4.tv/ch/2204.png" catchup-days="0", Матч! ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OBlUMT3D964qPSEz50NLRQ&e=2077215089&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Регион 29 (Архангельск)" tvg-id="Регион 29 (Архангельск)" tvg-name="Регион 29 (Архангельск)" tvg-logo="http://i115.fastpic.org/big/2021/0927/dc/1a457e6b9a7cda90313d0add46907adc.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Регион 29
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="stv24", СТВ 24
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск+Rutube" tvg-id="stv24", СТВ 24
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="sever",Север (Ненецкий АО)
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Север (Нарьян-Мар)" tvg-id="Север (Нарьян-Мар)" tvg-name="Север ТВ FHD" tvg-logo="http://only4.tv/ch/6756.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Север ТВ FHD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_SEVER/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="5kanal-ru",Пятый
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Пятый канал" tvg-id="Пятый канал" tvg-name="Пятый канал" tvg-logo="http://only4.tv/ch/1003.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Пятый канал
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_5TV_ARKH/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="zvezda",Звезда
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Звезда" tvg-id="Звезда" tvg-name="Звезда" tvg-logo="http://only4.tv/ch/1311.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Звезда
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="rentv", РЕН ТВ
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="РЕН ТВ" tvg-id="РЕН ТВ" tvg-name="РЕН ТВ" tvg-logo="http://only4.tv/ch/1004.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", РЕН ТВ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="sts", СТС
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="СТС" tvg-id="СТС" tvg-name="СТС" tvg-logo="http://only4.tv/ch/1105.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", СТС
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_STS_ARKH/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="piatnica", Пятница
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Пятница HD" tvg-id="Пятница HD" tvg-name="Пятница HD" tvg-logo="http://only4.tv/ch/5562.png" catchup-days="0", Пятница! HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=RaUzHGmivjOleHixCqsfJQ&e=2070450928&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Пятница!" tvg-id="Пятница!" tvg-name="Пятница!" tvg-logo="http://only4.tv/ch/1009.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Пятница!
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="tnt", ТНТ
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="ТНТ" tvg-id="ТНТ" tvg-name="ТНТ" tvg-logo="http://only4.tv/ch/2207.png" catchup-days="0", ТНТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=MhsjbZgMAWdyBTt-2cMl1g&e=2070450927&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="ТНТ" tvg-id="ТНТ" tvg-name="ТНТ" tvg-logo="http://only4.tv/ch/1319.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", ТНТ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_TNT_ARKH/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="tv3-ru",ТВ-3
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="ТВ 3" tvg-id="ТВ 3" tvg-name="ТВ 3" tvg-logo="http://only4.tv/ch/6466.png" catchup-days="0", ТВ-3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=KlsMxrtTzrB_P4GNDOnI5g&e=2070450929&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="ТВ 3" tvg-id="ТВ 3" tvg-name="ТВ 3" tvg-logo="http://only4.tv/ch/1008.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", ТВ-3
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_TV3_ARKH/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="tnt4", ТНТ4
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="ТНТ4" tvg-id="ТНТ4" tvg-name="ТНТ4" tvg-logo="http://only4.tv/ch/6465.png" catchup-days="0", ТНТ4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=v7-UUAe9a1dX9E6MkO7KRQ&e=2070450928&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="ТНТ4" tvg-id="ТНТ4" tvg-name="ТНТ4" tvg-logo="http://only4.tv/ch/1820.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", ТНТ4
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="muztv",МУЗ-ТВ
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Муз ТВ" tvg-id="Муз ТВ" tvg-name="Муз ТВ" tvg-logo="http://only4.tv/ch/10883.png" catchup-days="0", Муз-ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=NNDTrPUJ2SBJfxQXGleClA&e=2070450960&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Муз ТВ" tvg-id="Муз ТВ" tvg-name="Муз ТВ" tvg-logo="http://only4.tv/ch/1313.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Муз-ТВ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-
-#EXTINF:-1 group-title="Архангельск + интернет" tvg-id="tnt-music", ТНТ Music HD
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="FON Music" tvg-id="FON Music" tvg-name="FON Music" tvg-logo="http://only4.tv/ch/7536.png" catchup-days="0", FON Music HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=CoI9uq8BIW1HeIobzwM3HQ&e=2068398530&scheme=https
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="2na2",2x2
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Новое Радио" tvg-id="Новое Радио" tvg-name="Новое Радио" tvg-logo="http://i124.fastpic.org/big/2025/0306/92/1143c07e2fc8bc3312c2b294ac21b392.png" catchup-days="0",Новое Радио ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="2x2" tvg-id="2x2" tvg-name="2x2" tvg-logo="http://only4.tv/ch/1826.png" catchup-days="0", 2x2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=fehh_Vf7AVpfe3DzA4bIhw&e=2070450929&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="2x2" tvg-id="2x2" tvg-name="2x2" tvg-logo="http://only4.tv/ch/1826.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", 2x2
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="karusel",Карусель
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Карусель" tvg-id="Карусель" tvg-name="Карусель" tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Карусель
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="super",Суббота
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Суббота!" tvg-id="Суббота!" tvg-name="Суббота!" tvg-logo="http://only4.tv/ch/6464.png" catchup-days="0", Суббота! HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=l5pohwXF4qpoFIUMQQHCGQ&e=2070450930&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Суббота!" tvg-id="Суббота!" tvg-name="Суббота!" tvg-logo="http://only4.tv/ch/1321.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Суббота!
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="che", Че!
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Че" tvg-id="Че" tvg-name="Че " tvg-logo="http://only4.tv/ch/1109.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Че!
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Архангельск + интернет" tvg-id="rossia-24", Россия 24
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Россия 24" tvg-id="Россия 24" tvg-name="Россия 24" tvg-logo="http://only4.tv/ch/0302.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Россия 24
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_ARKH/variant.m3u8
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="ТАСС" tvg-id="ТАСС" tvg-name="ТАСС" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/TASS_Logo_Cyrillic.svg/1280px-TASS_Logo_Cyrillic.svg.png" catchup-days="0",ТАСС HD
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Москва 24" tvg-id="Москва 24" tvg-name="Москва 24" tvg-logo="http://only4.tv/ch/0295.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=1nI1kE8A33EVD1Bd5X4ehw&e=2070450928&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="http://i124.fastpic.org/big/2025/0306/d6/abc3212f787a5baabfee3a0e916634d6.png" catchup-days="0",Record Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=DVWRoXrRTz7lc83mSPBPvA&e=2070649997&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="http://i124.fastpic.org/big/2025/0306/d6/abc3212f787a5baabfee3a0e916634d6.png" catchup-days="0",Record Russian Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=Cdy38QgKCq6COn3hLJyCWw&e=2070450962&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="http://i124.fastpic.org/big/2025/0306/d6/abc3212f787a5baabfee3a0e916634d6.png" catchup-days="0",Record Megamix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=CrIfvudR50Vl4NEnBnKtqg&e=2070450962&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="http://i124.fastpic.org/big/2025/0306/d6/abc3212f787a5baabfee3a0e916634d6.png" catchup-days="0",Record Russian Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=66OFi4nTrWiZCIo6N9TjkQ&e=2070650182&scheme=https
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="http://i124.fastpic.org/big/2025/0306/d6/abc3212f787a5baabfee3a0e916634d6.png" catchup-days="0",Record Супердискотека 90х
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=5ILSPatiSIsFmKaahyNBrA&e=2070450962&scheme=https
+
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Окко Чемпионат" tvg-id="Окко Чемпионат" tvg-name="Окко Чемпионат" catchup-days="0",Окко Чемпионат
+https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Окко Спорт" tvg-id="Окко Спорт" tvg-name="Окко Спорт" catchup-days="0",Окко Спорт
+https://ua001.online24.pm:8443/7337/video.m3u8?token=7727E661940D68A
+#EXTINF:-1 group-title="Архангельск+Rutube" channel-id="TNT Sports  1 HD" tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports  1 HD" catchup-days="0",TNT Sports 1 HD
+https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pdG75PDxJwiXjmpVApq0Zg&e=2077215205&scheme=https
