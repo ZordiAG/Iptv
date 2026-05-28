@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz,https://iptvx.one/EPG,https://tapitv.com/ttv.xmltv.7.xml.gz" refresh="3600"
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz,https://iptvx.one/EPG" refresh="3600"
 #EXTINF:-1 group-title="Архангельск+Rutube" channel-id="Всё ТВ" tvg-id="Всё ТВ" tvg-name="Всё ТВ" tvg-logo="http://i124.fastpic.org/big/2024/1015/4b/3d8002c43bd83ec1db4d817639aaab4b.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Всё ТВ HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
