@@ -25,9 +25,6 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OB
 #EXTINF:-1 group-title="Wink+" channel-id="Регион 29 (Архангельск)" tvg-id="Регион 29 (Архангельск)" tvg-name="Регион 29 (Архангельск)" tvg-logo="http://i115.fastpic.org/big/2021/0927/dc/1a457e6b9a7cda90313d0add46907adc.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Регион 29
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" group-title="Wink+" tvg-id="stv24", СТВ 24
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Пятый канал" tvg-id="Пятый канал" tvg-name="Пятый канал" tvg-logo="http://only4.tv/ch/1003.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Пятый канал
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_5TV_ARKH/variant.m3u8
