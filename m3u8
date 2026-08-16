@@ -70,7 +70,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="FON Music HD" tvg-id="FON Music HD" tvg-name="FON Music HD" tvg-logo="http://only4.tv/ch/7536.png" catchup-days="0", FON Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=CoI9uq8BIW1HeIobzwM3HQ&e=2068398530&scheme=https
-#EXTINF:-1 group-title="Wink+" channel-id="V2Beat HD" tvg-id="V2Beat HD" tvg-name="V2Beat HD" tvg-logo="http://only4.tv/ch/7536.png" catchup-days="0", V2Beat HD
+#EXTINF:-1 group-title="Wink+" channel-id="V2Beat HD" tvg-id="V2Beat HD" tvg-name="V2Beat HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhl5QqSZciCCsbtv2tIIDabNVpwdVb_j5hb_aHFoPug&s=10" catchup-days="0", V2Beat HD
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Новое Радио ТВ" tvg-id="Новое Радио ТВ" tvg-name="Новое Радио ТВ" tvg-logo="https://top-radio.com.ru/cover/station/uNp3HjWBwDCCnF5bJRVLawSXbjaQOZqQALxNg9wF.png" catchup-days="0",Новое Радио ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -98,15 +98,16 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Москва 24" tvg-id="Москва 24" tvg-name="Москва 24" tvg-logo="http://only4.tv/ch/0295.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}",Москва 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=1nI1kE8A33EVD1Bd5X4ehw&e=2070450928&scheme=https
-#EXTINF:-1 group-title="Wink+" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="http://i124.fastpic.org/big/2025/0306/d6/abc3212f787a5baabfee3a0e916634d6.png" catchup-days="0",Record Radio
+#EXTINF:-1 group-title="Wink+" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="https://volna.top/logoradio/record.webp?v=407" catchup-days="0",Record Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=DVWRoXrRTz7lc83mSPBPvA&e=2070649997&scheme=https
-#EXTINF:-1 group-title="Wink+" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="http://i124.fastpic.org/big/2025/0306/d6/abc3212f787a5baabfee3a0e916634d6.png" catchup-days="0",Record Russian Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=Cdy38QgKCq6COn3hLJyCWw&e=2070450962&scheme=https
-#EXTINF:-1 group-title="Wink+" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="http://i124.fastpic.org/big/2025/0306/d6/abc3212f787a5baabfee3a0e916634d6.png" catchup-days="0",Record Megamix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=CrIfvudR50Vl4NEnBnKtqg&e=2070450962&scheme=https
-#EXTINF:-1 group-title="Wink+" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKZdW4qiydAwWpGh2_sG9ozBjXBv8d92MQKGEF95hJJg&s=10" catchup-days="0",Record Russian Mix
+#EXTINF:-1 group-title="Wink+" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDh6sZXDjfUv3i0lowmVnRR0Q71r2O7v_7pE8Qxua3Kw&s" catchup-days="0",Record Russian Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=66OFi4nTrWiZCIo6N9TjkQ&e=2070650182&scheme=https
+#EXTINF:-1 group-title="Wink+" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBP7zbipTiyH23pvTj6tnwCoHBxryZRiA-QkExPrtuw&s=10" catchup-days="0",Record Russian Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=Cdy38QgKCq6COn3hLJyCWw&e=2070450962&scheme=https
+#EXTINF:-1 group-title="Wink+" channel-id="Радио Рекорд" tvg-id="Радио Рекорд" tvg-name="Радио Рекорд" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3qQ-Iriza3k15bDCLBZ6p6tbVMePpkMbthfhXrhMRQ&s=10" catchup-days="0",Record Megamix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=CrIfvudR50Vl4NEnBnKtqg&e=2070450962&scheme=https
+
