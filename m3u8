@@ -22,9 +22,9 @@ https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_ARKH/variant.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Матч! ТВ" tvg-id="Матч! ТВ" tvg-name="Матч! ТВ" tvg-logo="http://only4.tv/ch/2204.png" catchup-days="0", Матч! ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OBlUMT3D964qPSEz50NLRQ&e=2077215089&scheme=https
-#EXTINF:-1 group-title="Wink+" channel-id="" tvg-id="" tvg-name="" tvg-logo="" catchup-days="0", Окко Чемпионат HD
+#EXTINF:-1 group-title="Wink+" channel-id="Okko.Чемпионат" tvg-id="Okko.Чемпионат" tvg-name="Okko.Чемпионат" tvg-logo="https://epg.iptvx.one/picons/okko-chemp.png" catchup-days="0", Окко Чемпионат HD
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/manifest.m3u8
-#EXTINF:-1 group-title="Wink+" channel-id="" tvg-id="" tvg-name="" tvg-logo="" catchup-days="0", Arena 1 Premium HD
+#EXTINF:-1 group-title="Wink+" channel-id="Arena PREMIUM 1" tvg-id="Arena PREMIUM 1" tvg-name="Arena PREMIUM 1" tvg-logo="https://epg.iptvx.one/picons/arena-premium-1.png" catchup-days="0", Arena 1 Premium HD
 https://7nyaler.streamhostingcdn.top/stream/33/master.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Регион 29 (Архангельск)" tvg-id="Регион 29 (Архангельск)" tvg-name="Регион 29 (Архангельск)" tvg-logo="https://pic.rtbcdn.ru/user/d9/30/d9305e613fb8e66854d389ab331df178.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Регион 29
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -76,7 +76,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=CoI9uq8BIW1HeIobzwM3HQ&e=2068398530&scheme=https
 #EXTINF:-1 group-title="Wink+" channel-id="V2Beat HD" tvg-id="V2Beat HD" tvg-name="V2Beat HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhl5QqSZciCCsbtv2tIIDabNVpwdVb_j5hb_aHFoPug&s=10" catchup-days="0", V2Beat HD
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Wink+" channel-id="" tvg-id="" tvg-name="" tvg-logo="" catchup-days="0", Mafi2a TV
+#EXTINF:-1 group-title="Wink+" channel-id="Mafi2a TV" tvg-id="Mafi2a TV" tvg-name="Mafi2a TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4AeytsvZt4L5M55mwXCEWS_Jf4CgKAphlmdnK_qZPg&s" catchup-days="0", Mafi2a TV
 https://vkvsd491.okcdn.ru/cmaf/5226517105377/sig/OVcRjwKVASI/srcIp/172.70.240.112/urls/178.237.23.121/expires/1787350714568/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/6258783562721/id/5226517105377/get/COHXyOSTtgEQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCCo6m6lM5bZtw/track.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Новое Радио ТВ" tvg-id="Новое Радио ТВ" tvg-name="Новое Радио ТВ" tvg-logo="https://top-radio.com.ru/cover/station/uNp3HjWBwDCCnF5bJRVLawSXbjaQOZqQALxNg9wF.png" catchup-days="0",Новое Радио ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
