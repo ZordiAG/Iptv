@@ -26,7 +26,7 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=OB
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/manifest.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Arena PREMIUM 1" tvg-id="Arena PREMIUM 1" tvg-name="Arena PREMIUM 1" tvg-logo="https://epg.iptvx.one/picons/arena-premium-1.png" catchup-days="0", Arena 1 Premium HD
 https://7nyaler.streamhostingcdn.top/stream/33/master.m3u8
-#EXTINF:-1 group-title="Wink+" channel-id="Регион 29 (Архангельск)" tvg-id="Регион 29 (Архангельск)" tvg-name="Регион 29 (Архангельск)" tvg-logo="https://pic.rtbcdn.ru/user/d9/30/d9305e613fb8e66854d389ab331df178.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Регион 29
+#EXTINF:-1 group-title="Wink+" channel-id="Регион 29 (Архангельск)" tvg-id="Регион 29 (Архангельск)" tvg-name="Регион 29 (Архангельск)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUkzhLvrqwFHa55beBQF5vXUKtxnWkWnLgg61VrQA3j73nrPP1hojvy9Ix&s=10" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Регион 29
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Пятый канал" tvg-id="Пятый канал" tvg-name="Пятый канал" tvg-logo="http://only4.tv/ch/1003.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Пятый канал
