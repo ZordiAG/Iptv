@@ -70,6 +70,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="FON Music HD" tvg-id="FON Music HD" tvg-name="FON Music HD" tvg-logo="http://only4.tv/ch/7536.png" catchup-days="0", FON Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=CoI9uq8BIW1HeIobzwM3HQ&e=2068398530&scheme=https
+#EXTINF:-1 group-title="Wink+" channel-id="V2Beat HD" tvg-id="V2Beat HD" tvg-name="V2Beat HD" tvg-logo="http://only4.tv/ch/7536.png" catchup-days="0", V2Beat HD
+https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Новое Радио ТВ" tvg-id="Новое Радио ТВ" tvg-name="Новое Радио ТВ" tvg-logo="http://i124.fastpic.org/big/2025/0306/92/1143c07e2fc8bc3312c2b294ac21b392.png" catchup-days="0",Новое Радио ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
