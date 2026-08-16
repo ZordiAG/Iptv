@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG" refresh="3600"
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz,https://iptvx.one/EPG" refresh="3600"
 #EXTINF:-1 group-title="Wink+" channel-id="Первый канал HD" tvg-id="Первый канал HD" tvg-name="Первый канал HD" tvg-logo="http://only4.tv/ch/20105.png" catchup-days="0", Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=IJEOPSKjgft0O7p69H3ebA&e=2070450926&scheme=https
