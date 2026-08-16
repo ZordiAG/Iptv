@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz,https://iptvx.one/EPG" refresh="3600"
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz" refresh="3600"
 #EXTINF:-1 group-title="Wink+" channel-id="Первый канал HD" tvg-id="Первый канал HD" tvg-name="Первый канал HD" tvg-logo="http://only4.tv/ch/20105.png" catchup-days="0", Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=IJEOPSKjgft0O7p69H3ebA&e=2070450926&scheme=https
@@ -31,7 +31,7 @@ https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_5TV_ARKH/variant.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Звезда" tvg-id="Звезда" tvg-name="Звезда" tvg-logo="http://only4.tv/ch/1311.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Звезда
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Wink+" channel-id="РЕН ТВ" tvg-id="РЕН ТВ" tvg-name="РЕН ТВ" tvg-logo="http://only4.tv/ch/1004.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", РЕН ТВ
+#EXTINF:-1 group-title="Wink+" channel-id="Рен ТВ HD orig" tvg-id="Рен ТВ HD orig" tvg-name="Рен ТВ HD orig" tvg-logo="http://only4.tv/ch/1004.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", РЕН ТВ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="СТС" tvg-id="СТС" tvg-name="СТС" tvg-logo="http://only4.tv/ch/1105.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", СТС
@@ -61,22 +61,16 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=v7
 #EXTINF:-1 group-title="Wink+" channel-id="ТНТ4" tvg-id="ТНТ4" tvg-name="ТНТ4" tvg-logo="http://only4.tv/ch/1820.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", ТНТ4
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Wink+" channel-id="NSC+" tvg-id="NSC+" tvg-name="NSC+" tvg-logo="https://iili.io/C2oyW9R.png" catchup-days="0",NSC+ HD
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="Wink+" channel-id="15+ Animation" tvg-id="15+ Animation" tvg-name="15+ Animation" tvg-logo="https://s10.iimage.su/s/28/th_g3VQ11GxqMgnImNkX5izgNrX9NLwPcKyz1VqZ2zrk.png" catchup-days="0",15+ Animation HD
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="Муз ТВ" tvg-id="Муз ТВ" tvg-name="Муз ТВ" tvg-logo="http://only4.tv/ch/10883.png" catchup-days="0", Муз-ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=NNDTrPUJ2SBJfxQXGleClA&e=2070450960&scheme=https
 #EXTINF:-1 group-title="Wink+" channel-id="Муз ТВ" tvg-id="Муз ТВ" tvg-name="Муз ТВ" tvg-logo="http://only4.tv/ch/1313.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}", Муз-ТВ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Wink+" channel-id="FON Music" tvg-id="FON Music" tvg-name="FON Music" tvg-logo="http://only4.tv/ch/7536.png" catchup-days="0", FON Music HD
+#EXTINF:-1 group-title="Wink+" channel-id="FON Music HD" tvg-id="FON Music HD" tvg-name="FON Music HD" tvg-logo="http://only4.tv/ch/7536.png" catchup-days="0", FON Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=CoI9uq8BIW1HeIobzwM3HQ&e=2068398530&scheme=https
-#EXTINF:-1 group-title="Wink+" channel-id="15+ Music" tvg-id="15+ Music" tvg-name="15+ Music" tvg-logo="https://static.goodgame.ru/files/avatars/av_1641869_2z1T.jpg" catchup-days="0",15+ Music HD
-https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-#EXTINF:-1 group-title="Wink+" channel-id="Новое Радио" tvg-id="Новое Радио" tvg-name="Новое Радио" tvg-logo="http://i124.fastpic.org/big/2025/0306/92/1143c07e2fc8bc3312c2b294ac21b392.png" catchup-days="0",Новое Радио ТВ
+#EXTINF:-1 group-title="Wink+" channel-id="Новое Радио ТВ" tvg-id="Новое Радио ТВ" tvg-name="Новое Радио ТВ" tvg-logo="http://i124.fastpic.org/big/2025/0306/92/1143c07e2fc8bc3312c2b294ac21b392.png" catchup-days="0",Новое Радио ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Wink+" channel-id="2x2" tvg-id="2x2" tvg-name="2x2" tvg-logo="http://only4.tv/ch/1826.png" catchup-days="0", 2x2 HD
